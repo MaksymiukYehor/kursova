@@ -1,0 +1,37 @@
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\Egork\OneDrive\Рабочий стол\лабы 2 курс\oop\lab1\obj\Debug\net8.0\ref\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.sourcelink.json
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab1\obj\Debug\net8.0\ref\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.sourcelink.json
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\Egork\OneDrive\Рабочий стол\labs 2024-2025\LAB_OOP\lab2\obj\Debug\net8.0\lab1.pdb
