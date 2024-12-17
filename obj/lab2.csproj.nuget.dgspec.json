@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\labs 2024-2025\\KURSOVA\\lab2.csproj": {}
+    "/Users/MacBook/Desktop/KURSOVA/lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\labs 2024-2025\\KURSOVA\\lab2.csproj": {
+    "/Users/MacBook/Desktop/KURSOVA/lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\labs 2024-2025\\KURSOVA\\lab2.csproj",
+        "projectUniqueName": "/Users/MacBook/Desktop/KURSOVA/lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\labs 2024-2025\\KURSOVA\\lab2.csproj",
-        "packagesPath": "C:\\Users\\Egork\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\labs 2024-2025\\KURSOVA\\obj\\",
+        "projectPath": "/Users/MacBook/Desktop/KURSOVA/lab2.csproj",
+        "packagesPath": "/Users/MacBook/.nuget/packages/",
+        "outputPath": "/Users/MacBook/Desktop/KURSOVA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Egork\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/MacBook/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
